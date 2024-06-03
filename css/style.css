@@ -367,8 +367,9 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 
-#fh5co-about h3 {
-  color: #fff;
+#fh5co-about h3,
+#fh5co-about h2 {
+  color: #40E0D0;
 }
 
 #fh5co-about .fh5co-social-icons {
@@ -844,6 +845,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+  color: #4d4d4d;
 }
 @media screen and (max-width: 768px) {
   .fh5co-blog .blog-text {
